@@ -8,7 +8,7 @@
 - 🌱 学习前端 & Python
 - 👯 希望和你一起摸鱼、一起成长！
 - 💬 欢迎交流技术、分享趣事
-- 📫 联系方式：在[主页](https://xiaty-win11.github.io/)留言吧
+- 📫 联系方式：在[邮箱(回复慢)](mailto:Xiaty_Xia@outlook.com)留言吧
 - 😄 代称: 他/he
 - ⚡ Fun fact: 我的桌面超酷，快来看看！
 
