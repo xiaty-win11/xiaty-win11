@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 ## HMCL配置，包在我身上! (MineCraft 配置爱好者)
 
-## [主页](https://xiaty-win11.github.io/)
-
-## [HMCL](https://hmcl.huangyuhui.net/)
-
-### [HMCL旧站](https://hmcl.net)
-
 #### 一个高质量的图标渐变demo
 
 ```python
@@ -50,6 +44,12 @@ for i in range(180):
     t.right(1)
 turtle.done()
 ```
+
+## [主页](https://xiaty-win11.github.io/)
+
+## [HMCL](https://hmcl.huangyuhui.net/)
+
+### [HMCL旧站](https://hmcl.net)
 
 ## [Node.js](https://nodejs.org)
 
