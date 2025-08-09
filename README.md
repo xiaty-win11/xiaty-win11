@@ -2,12 +2,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://xiaty-win11.github.io/assets/fish-wave.gif" alt="Fish Wave" width="300"/>
-</div>
-
----
-
 ## 🚀 关于我
 
 - 🔭 正在折腾 HMCL 配置、Minecraft 模组安装
@@ -15,7 +9,7 @@
 - 👯 希望和你一起摸鱼、一起成长！
 - 💬 欢迎交流技术、分享趣事
 - 📫 联系方式：在[主页](https://xiaty-win11.github.io/)留言吧
-- 😄 Pronouns: 他/he
+- 😄 代称: 他/he
 - ⚡ Fun fact: 我的桌面超酷，快来看看！
 
 ---
@@ -68,8 +62,6 @@ turtle.done()
 >
 > 👀 快来我的[主页](https://xiaty-win11.github.io/)看看更多酷炫内容！
 
-<div align="center">
-  <img src="https://xiaty-win11.github.io/assets/desktop-demo.gif" alt="desktop demo" width="400"/>
-</div>
-
 ---
+
+~底线到了，别折腾了。~
