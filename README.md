@@ -1,9 +1,4 @@
-<!--
-**xiaty-win11/xiaty-win11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-这里是你的个性化主页！✨
-
-欢迎来到 🐟 **上课摸鱼的救星** 🌟
+# 🐟 **上课摸鱼的救星!** 🌟
 
 ---
 
